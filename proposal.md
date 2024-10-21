@@ -90,11 +90,14 @@ Final Price: 1 year with 40 hour weeks is $245 760 USD + $103 219 USD in legal f
  
 Requested amount for 1 year is : 348 979 USD
 
+The development costs could be paid out in milestones covering 3 months of work. Then the testnet will be completed using 4 milestones.
+
 ### Mainnet costs:
-Estimated $300 000 USD audit costs and 50k hardware infrastructure costs. better estimates will be created when this point is reached.
+The audit costs and the hardware costs to run the nodes will be calculated after testnet. Multiple auditing firms should be contacted before mainnet deployment.
+There must be also two Powers of TAU ceremonies hosted to secure the ZKP before mainnet launch
 
 ### Maintenance:
-Requesting 1 year worth of development time, which will be spent more slowly as the development frequency decreases. 
+With less development frequency, 1 year of development fees should cover a longer period.
 
 ### Marketing strategy
 This is an infrastructure aimed at developers, it's direct use is abstracted from end users. 
