@@ -82,7 +82,8 @@ This is full stack cross-chain blockchain development, using Rust, circom, solid
 
 128USD/hour + 42% tax (based on my current location in Scandinavia, it does not include all taxes only the minimum)
 
-Final Price: 1 year with 40 hour weeks is $245 760 USD + $103 219 USD in legal fees 
+Final Price: 1 year with 40 hour weeks is $245 760 USD + $103 219 USD in legal fees
+ 
 Requested amount for 1 year is : 348 979 USD
 
 ### Mainnet costs:
