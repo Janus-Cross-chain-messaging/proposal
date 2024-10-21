@@ -92,7 +92,7 @@ Estimated $300 000 USD audit costs and 50k hardware infrastructure costs. better
 ### Maintenance:
 Requesting 1 year worth of development time, which will be spent more slowly as the development frequency decreases. 
 
-## Marketing strategy
+### Marketing strategy
 This is an infrastructure aimed at developers, it's direct use is abstracted from end users. 
 The chain provides no investment or new tokens and needs to be marketed only to developers.
 
@@ -103,3 +103,15 @@ Example: 1000 USD bounty for developers and 500$ in Dot deposited into the attes
 
 ### Proof of work before funding
 The circom circuits and the witness can be developed before 1 year of development time is funded. The Witness will use mock origin, appchain and destinations and will only contains the critical cryptography. 
+
+### Use-Cases
+* Trustless Bridges
+* Multi Chain Tokens
+* Cross chain DEX Swap Routes
+* Cross chain DeFi
+* Arbitrage trades
+* Minimum Extractable Value Source
+* Account Abstraction
+* Cross chain intents
+* Connecting ecosystems
+* Multi-Chain DAO treasury
