@@ -11,10 +11,10 @@ We are in the multichain era where DApps are scattered around on many chains. Us
 
 Trustless is hard. Centralized bridges are a liability, cross-chain messaging UX is bad and can't b e uses by novice users. There is no infrastructure that is truly compatible with all chains.
 
-## The proposed solution
+## The proposed solution - Groth16 is the Lingua franca of cross-chain communication.
 
 An attestation parachain on Polkadot for cross-chain witnesses that observe events, and create and confirm attestations.
-Attestation proofs using ZKP. Groth16 is the Lingua franca of cross-chain communication.
+Attestation proofs using ZKP. 
 
 
 ## How it works?
