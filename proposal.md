@@ -96,7 +96,8 @@ Requesting 1 year worth of development time, which will be spent more slowly as 
 This is an infrastructure aimed at developers, it's direct use is abstracted from end users. 
 The chain provides no investment or new tokens and needs to be marketed only to developers.
 
-The best way to do this is bounties and hackathons. A hackathon founded by the Polkadot Treasury.a hackathon and bounties would incentivize developers to build on this infrastructure.
+The best way to do this is bounties and hackathons. A hackathon founded by the Polkadot Treasury.
+Hackathons and bounties would incentivize developers to build on this infrastructure.
 
 Example: 1000 USD bounty for developers and 500$ in Dot deposited into the attestation slot.
 
