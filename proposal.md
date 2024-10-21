@@ -78,7 +78,7 @@ The estimated time to reach stable testnet is at least 1 year.
 
 This is full stack cross-chain blockchain development, using Rust, circom, solidity, move, FunC, and NodeJs, and Golang, HTML, CSS, TS
 
-Development cost:
+### Development cost:
 
 128USD/hour + 42% tax (based on my current location in Scandinavia, it does not include all taxes only the minimum)
 
