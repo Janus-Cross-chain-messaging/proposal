@@ -63,8 +63,8 @@ This creates a trustless cross-chain messaging infrastructure, secured by DOT st
    * An AppChain
    * Uses DOT as a token
    * Provides Configurable Attestation Slots
-   * Developers using it funds witnesses with DOT
-   * Witnesses stake DOT and claim rewards
+   * Developers using it need to fund witnesses with DOT
+   * Witnesses stake DOT (POS) and claim rewards
 5. Destination Smart Contract Verifier (Rust, Solidity, Move, FunC) 
 6. Trustless relayer written in nodejs with it's code reusable in the browser for manual use. (E.g: Instead of abstractions, the user needs to interact twice)
 7. A custom chain explorer that will provide insight into the appchain and allow full interaction with it, and shows the transactions on both the origin and destination chains.
