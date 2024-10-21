@@ -102,7 +102,8 @@ Hackathons and bounties would incentivize developers to build on this infrastruc
 Example: 1000 USD bounty for developers and 500$ in Dot deposited into the attestation slot.
 
 ### Proof of work before funding
-The circom circuits and the witness can be developed before 1 year of development time is funded. The Witness will use mock origin, appchain and destinations and will only contains the critical cryptography. 
+The circom circuits and the witness can be developed before 1 year of development time is funded. The Witness will use mocked origin chain, attest chain and destination chains and will only contain the critical cryptography components.
+But it will serve as a Proof of Concept.
 
 ### Use-Cases
 * Trustless Bridges
