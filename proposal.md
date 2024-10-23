@@ -134,6 +134,12 @@ The origin part of the message must encode chainId, origin smart contract and th
 
 The messaging format should be flexible enough to fit into the circom circuit which is fixed size as these variables must be known at compile time, it must work well with rust, solidity, move and other smart contract languages and VMs.
 
+# Ideas
+The circom circuit should contain message slots, instead of one large signal to encode the message. The signature uses poseidon hash of message slots. The content of the message slot is variable and depends on the use-case. 
+
+The origin and destination addresses are poseidon hashes of variables like chainId and smart contract address and function signature and these are stored on a look up table on the Attestation chain. 
+There should be a zk verification when setting origin and destination on-chain, to verify the poseidon hash matches the inputted values. The origin and destination hashes then need to be hardcoded into the origin and destination smart contracts. 
+
 The messaging format initially developed for the proof of concept will need to evolve to fit the final protocol.
 
 One of the solutions is to use a custom encoding for origin and destination while providing a loop up table on-chain for the values for the witnesses and relayers to look up and these values should be hard coded into the contracts deployed by developers that emit and receive messages.
