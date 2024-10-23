@@ -123,3 +123,10 @@ But it will serve as a Proof of Concept.
 * Cross chain intents
 * Connecting ecosystems
 * Multi-Chain DAO treasury
+
+
+## Challenges
+Developing a message encoding format that is compatible with circom is a more difficult task. The message must have an origin and destination identifier and the message itself needs to be ecoded inside. 
+The message could contain up uint256 values and addresses. The origin must encode chainId, origin smart contract and the destination must encode the same, while the message could specify an address that will recieve an amount of tokens to mint etc. 
+The messaging format should be flexible enough to fit into the circom circuit which is fixed size as these variables must be known at compile time, it must work well with rust, solidity, move and other smart contract languages and VMs.
+The messaging format initially developed for the proof of concept will need to evolve to fit the final protocol.
