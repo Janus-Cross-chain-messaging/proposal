@@ -80,7 +80,7 @@ The hours will be tracked and linked to commits.
 
 The estimated time to reach stable testnet is at least 1 year. 
 
-This is full stack cross-chain blockchain development, using Rust, circom, solidity, move, FunC, and NodeJs, and Golang, HTML, CSS, TS
+This is full stack cross-chain blockchain development, using Rust, circom, !Ink, solidity, move, FunC, and NodeJs, and Golang, HTML, CSS, TS
 
 ### Development cost:
 
