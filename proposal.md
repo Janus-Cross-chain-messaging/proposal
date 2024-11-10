@@ -143,3 +143,8 @@ There should be a zk verification when setting origin and destination on-chain, 
 The messaging format initially developed for the proof of concept will need to evolve to fit the final protocol.
 
 One of the solutions is to use a custom encoding for origin and destination while providing a loop up table on-chain for the values for the witnesses and relayers to look up and these values should be hard coded into the contracts deployed by developers that emit and receive messages.
+
+## Benefits to the Polkadot ecosystem
+* A new use-case for DOT
+* Onboards developers from other chains
+* Places Polkadot into the center of the cross-chain blockchain world
