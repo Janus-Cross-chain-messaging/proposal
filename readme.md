@@ -1,4 +1,4 @@
-# Proposal Discussion
+# Proposal 
 
 ## Polka-Attest
 
