@@ -1,9 +1,6 @@
 # Proposal Discussion
 
-## Janus
-
-![Janus logo](janus.png)
-##  Trustless Cross-chain Messaging infrastructure with ZK Attestation, powered by Polkadot
+## Polka-Attest
 
 This is a discussion for a future proposal, to build a universal cross-chain messaging solution, secured by Dot staking. This is a public good,a developer infrastructure that makes Polkadot the center of all cross-chain communication.
 
@@ -113,6 +110,7 @@ The circom circuits and the witness can be developed before 1 year of developmen
 But it will serve as a Proof of Concept.
 
 ### Use-Cases
+
 * Trustless Bridges
 * Multi Chain Tokens
 * Cross chain DEX Swap Routes
